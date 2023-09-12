@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @louisleclerc
-- 👀 I’m interested in finding where computer science and social sciences help each other.
-- 🌱 I’m currently learning Machine Learning, scrapping and NLP.
-- 💞️ I’m looking to collaborate on Data Science or Digital Humanities projects.
+- 👀 I’m interested in how data analytics help decision-making.
+- 🌱 I’m currently learning LLM Fine-Tuning, Machine Learning Explainability and Reinforcement Learning from Human Feedback.
+- 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/louisleclerc/).
 
 <!---
