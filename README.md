@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @louisleclerc
+- 👋 Hi, I’m @louisleclerc, founder of www.dehio.ai
 - 👀 I’m interested in turning messy data into valuable information.
 - 🌱 I’m currently learning LLM Fine-Tuning, Machine Learning Explainability and Reinforcement Learning from Human Feedback.
 - 💞️ I’m looking to collaborate on Data Engineering and Data Science projects.
