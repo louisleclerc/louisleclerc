@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louisleclerc, founder of www.dehio.ai
 - 👀 I’m interested in turning messy data into valuable information.
-- 🌱 I’m currently learning Data Engineering.
+- 🌱 I’m currently learning Data Engineering and Machine Learning.
 - 💞️ I’m looking to collaborate on Data & Analytics projects.
 - 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/louisleclerc/).
 
